@@ -1,0 +1,45 @@
+<?xml version='1.0' ?>
+<root org="doublechaintech" chinese_name="Payment Services" english_name="Payment Services">
+
+	<platform
+		name="Chain eComerce Platform"
+		introduction="new generation of eCommerce platform based on opensource and modern tech"
+		current_version="V1.0"
+		
+	
+	/>
+	
+	
+	<profile
+		name="Philip Zhang|Naveen Kumar R |VENKATESH GADUPUTI"
+		last_update_time="updateTime()"
+		platform="$(platform)"
+	/>
+	<shipping_address
+	
+		name="My Shipping Address"
+		card_number="41111111111198|41111111111199"
+		address_line1="1900 Ave of the stars"
+		address_line2="Suite 555"
+		address_line3="RM 2012"
+		city="Century City|Culver City"
+		state="CA|VA"
+		zip_code="89892-898"
+		
+		
+		profile="$(profile)"
+		
+	/>
+	
+	
+</root>
+ 
+
+
+
+
+
+
+
+
+
